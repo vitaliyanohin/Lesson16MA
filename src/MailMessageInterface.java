@@ -6,4 +6,3 @@ public interface MailMessageInterface<T> {
 
   T getContent();
 }
-
